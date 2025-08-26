@@ -22,6 +22,7 @@
  (depends
   ocaml
   dune
+  alcotest
   containers
  )
  (tags
